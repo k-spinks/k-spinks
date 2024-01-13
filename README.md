@@ -1,4 +1,4 @@
-<h1 align="center">Hi 👋, I'm Kevin</h1>
+<h1 align="center">Hi 👋, I'm Kevin Spinks</h1>
 <h3 align="center">A passionate full stack engineer</h3>
 
 <p align="left"> <a href="https://twitter.com/kspinks07" target="blank"><img src="https://img.shields.io/twitter/follow/kspinks07?logo=twitter&style=for-the-badge" alt="kspinks07" /></a> </p>
