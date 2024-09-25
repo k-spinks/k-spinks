@@ -7,7 +7,7 @@
 
 - 🌱 I’m currently learning **React ⚛️**
 
-- 👨‍💻 All of my projects are available at [https://kevinspinks.netlify.app/](https://kevinspinks.netlify.app/)
+- 👨‍💻 Check out my work on [my portfolio](https://kevinspinks.dev/)
 
 - 📫 How to reach me **k.spinks07@gmail.com**
 
