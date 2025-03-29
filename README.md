@@ -1,11 +1,11 @@
 <h1 align="center">Hi 👋, I'm Kevin</h1>
-<h3 align="center">A passionate full stack engineer</h3>
+<h3 align="center">A passionate Frontend Developer</h3>
 
 <p align="left"> <a href="https://twitter.com/kspinks07" target="blank"><img src="https://img.shields.io/twitter/follow/kspinks07?logo=twitter&style=for-the-badge" alt="kspinks07" /></a> </p>
 
 - 🔭 I’m currently working on **Board game e-commerce with Next.js**
 
-- 🌱 I’m currently learning **React ⚛️**
+- 🌱 I’m currently learning **Next.js ⚛️**
 
 - 👨‍💻 Check out my work on [my portfolio](https://kevinspinks.dev/)
 
